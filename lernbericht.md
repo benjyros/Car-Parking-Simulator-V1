@@ -121,7 +121,7 @@ K: Am Schluss lief das Programm einwandfrei, auch wenn es einige Funktionen noch
 
 A: Mit dem Auswerten konnte ich über das Projekt etwas reflektieren. Wir beide haben dann am Schluss noch unsere Meinungen geteilt, was zum Beispiel eher schiefgelaufen ist, oder auch was gut ging. Das Projekt gefiel mir sehr, da ich einen neuen Einblick in eine teilweise andere Programmierwelt hatte. Ich habe sehr vieles gelernt, was mir auch sehr viel Spass machte.
 
-## Verifikation
+## Links
 
 Link 1: https://docs.unity3d.com/Manual/WheelColliderTutorial.html
 
